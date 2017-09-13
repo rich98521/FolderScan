@@ -1,0 +1,9 @@
+d:\Projects\FolderScan\FolderScan\bin\Debug\FolderScan.exe.config
+d:\Projects\FolderScan\FolderScan\bin\Debug\FolderScan.exe
+d:\Projects\FolderScan\FolderScan\bin\Debug\FolderScan.pdb
+d:\Projects\FolderScan\FolderScan\obj\Debug\FolderScan.csprojResolveAssemblyReference.cache
+d:\Projects\FolderScan\FolderScan\obj\Debug\FolderScan.Properties.Resources.resources
+d:\Projects\FolderScan\FolderScan\obj\Debug\FolderScan.csproj.GenerateResource.Cache
+d:\Projects\FolderScan\FolderScan\obj\Debug\FolderScan.exe
+d:\Projects\FolderScan\FolderScan\obj\Debug\FolderScan.pdb
+d:\Projects\FolderScan\FolderScan\obj\Debug\FolderScan.Form1.resources
